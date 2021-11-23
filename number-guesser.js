@@ -1,5 +1,3 @@
-Skip to content
-
 let humanScore = 0;
 let computerScore = 0;
 let currentRoundNumber = 1;
@@ -18,7 +16,7 @@ const compareGuesses = (hGuess, cGuess, target) =>{
     window.alert('Out of range.');
     return false;
   } else if (difference(target, hGuess) <= difference(target, cGuess)){
-		return true;
+	return true;
 	} else if (difference(target, hGuess) > difference(target, cGuess)){
 		return false;
 	} 
