@@ -1,20 +1,5 @@
 Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@zeenyo 
-@codecademydev
-codecademydev/script.js Secret
-Created 7 minutes ago • Report abuse
-0
-0
-Tip
- Code
- Revisions 1
-<script src="https://gist.github.com/codecademydev/03a7c6e3f89519b2bd1f8c637264f875.js"></script>
-Codecademy export
-script.js
+
 let humanScore = 0;
 let computerScore = 0;
 let currentRoundNumber = 1;
