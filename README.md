@@ -1,2 +1,2 @@
 # codecademy-projects
-samples of work from codecademy learning
+samples and gists of work from codecademy learning
