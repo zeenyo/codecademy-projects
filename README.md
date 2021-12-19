@@ -1,8 +1,6 @@
 # codecademy-projects
 ## _My single-page project solutions from codecademy learning_
 
-[title](https://www.example.com)
-
 - ### [Build A Library](https://github.com/zeenyo/codecademy-projects/blob/main/build-a-library.js)
 _JAVASCRIPT ITERATORS, OBJECTS, AND CLASSES_
 
