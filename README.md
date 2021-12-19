@@ -16,3 +16,4 @@ _JAVASCRIPT SYNTAX, PART I_
 ## Off-platform project solutions
 - ### [Excursion Project](https://github.com/zeenyo/excursion)
 _Web Development Fundamentals / Bringing your Site Online_
+_(Will redirect to another repository)_
