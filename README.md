@@ -1,5 +1,5 @@
 # codecademy-projects
-_##My project solutions from codecademy learning_
+##My project solutions from codecademy learning
 
 ### Build A Library
 _JAVASCRIPT ITERATORS, OBJECTS, AND CLASSES_
