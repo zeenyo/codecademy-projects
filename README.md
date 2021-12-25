@@ -2,7 +2,7 @@
 ## On-platform project solutions
 
 - ### [Animal Facts](https://github.com/zeenyo/codecademy-projects/tree/main/animal-facts)
-_INTRO TO REACT_
+-- _INTRO TO REACT_
 
 - ### [Build a School Catalog](https://github.com/zeenyo/codecademy-projects/blob/main/school-catalog.js)
 _JAVASCRIPT ITERATORS, OBJECTS, AND CLASSES_
