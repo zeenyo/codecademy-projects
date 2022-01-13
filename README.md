@@ -1,7 +1,7 @@
 # codecademy-projects
 ## On-platform project solutions
 
-* ### [Animal Facts](https://github.com/zeenyo/codecademy-projects/tree/main/wanderlust.js)
+* ### [Wanderlust](https://github.com/zeenyo/codecademy-projects/tree/main/wanderlust.js)
   + _REACT // AJAX REQUESTS AND API INTERACTIONS_
 
 * ### [Animal Facts](https://github.com/zeenyo/codecademy-projects/tree/main/animal-facts)
