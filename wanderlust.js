@@ -35,7 +35,7 @@ const getPlaces = async () => {
       return places;
     }
   } catch(error) {
-    console.log(`THIS IS THE ERROR !!!!!! ${error}`);
+    console.log(`ERROR !!!!!! ${error}`);
   }
 };
 
@@ -48,7 +48,7 @@ const getForecast = async () => {
       return jsonResponse;
     }
   } catch(error) {
-    console.log(`THIS IS THE ERROR !!!!!! ${error}`);
+    console.log(`ERROR !!!!!! ${error}`);
   }
 };
 
